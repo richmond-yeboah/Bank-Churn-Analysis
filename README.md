@@ -43,7 +43,7 @@ I then went ahead to insert a line and clustered column chart which visualizes t
 
 I then inserted a slicer for churn status and a gauge chart for churned rate.
 
-
+[Link-to-dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTZkYjg4MmMtMjAxYi00ZTdjLTllNDItMjZiZGNkODE3ZDJiIiwidCI6IjFjZTU4MjFjLTE5NDItNDczMy1hNmRjLTBmYzNhODJiNzRkYiJ9)
 
 # Insights and Recommendations.
  
